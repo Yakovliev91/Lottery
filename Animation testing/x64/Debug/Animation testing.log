@@ -1,0 +1,6 @@
+﻿  Login.cpp
+  Source.cpp
+c:\users\владимир\source\repos\coursework lottery\animation testing\source.cpp(62): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\владимир\source\repos\coursework lottery\animation testing\source.cpp(96): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Animation testing.vcxproj -> C:\Users\Владимир\source\repos\CourseWork Lottery\x64\Debug\Animation testing.exe
